@@ -7,3 +7,4 @@ Repo Structure designed as below
 /test
 /config
 readme
+license.txt
